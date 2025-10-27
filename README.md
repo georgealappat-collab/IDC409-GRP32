@@ -61,6 +61,8 @@ Prathamesh Shelke –Data Preparation, Model Development and Execution of CNN
 George - Data Preparation, Model Development and Execution of XGBoost
 # License
 This project is released under the MIT License — see the LICENSE file for details.
+#Acknowledgement
+We would like to express sincere gratiture to CHAT-GPT, Perplexity AI, and Googel Gemini which helped us in curating the code. XGBoost was executed in pyCharm and CNN was executed on Jupyter Notebook. We would like to thank Anaconda Distribution too.
 # Contact
 For queries or collaboration: 
 ph25013@iisermohali.ac.in
