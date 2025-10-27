@@ -23,7 +23,7 @@ Background removal using rembg
 Image resizing (224×224)
 Data augmentation (rotation, brightness, contrast, flipping)
 Methodology
-Implemented using TensorFlow/Keras.
+Implemented using Keras.
 Architecture includes:
 Convolutional, pooling, and dense layers
 Batch normalization and dropout for regularization
@@ -63,5 +63,5 @@ George - Data Preparation, Model Development and Execution of XGBoost
 This project is released under the MIT License — see the LICENSE file for details.
 # Contact
 For queries or collaboration: 
-prathameshacademics@gmail.com 
+ph25013@iisermohali.ac.in
 ms23049@iisermohali.ac.in
