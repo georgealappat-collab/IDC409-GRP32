@@ -2,7 +2,7 @@
 # Overview
 This project focuses on the automatic identification of plant species using leaf images.
 We developed and compared two machine learning pipelines — Convolutional Neural Network (CNN) and XGBoost Classifier — to classify leaves from five plant species based on their morphological characteristics.
-Species included:
+The following species are included:
 1.	Acer
 2.	Quercus
 3.	Salix alba
