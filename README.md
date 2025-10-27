@@ -65,5 +65,5 @@ This project is released under the MIT License — see the LICENSE file for deta
 We would like to express sincere gratiture to CHAT-GPT, Perplexity AI, and Googel Gemini which helped us in curating the code. XGBoost was executed in pyCharm and google colab and CNN was executed on Jupyter Notebook. We would like to thank Anaconda Distribution too. 
 # Contact
 For queries or collaboration: 
-ph25013@iisermohali.ac.in
+ph25013@iisermohali.ac.in |
 ms23049@iisermohali.ac.in
